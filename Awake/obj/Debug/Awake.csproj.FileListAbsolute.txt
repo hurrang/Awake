@@ -1,0 +1,13 @@
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.frmAwake.resources
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.Properties.Resources.resources
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.csproj.GenerateResource.cache
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.csproj.CoreCompileInputs.cache
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\bin\Debug\Awake.exe.config
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\bin\Debug\Awake.exe
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\bin\Debug\Awake.pdb
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.exe
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.pdb
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.csproj.AssemblyReference.cache
+C:\Users\hheo\OneDrive - kochind.com\repos\Awake\Awake\obj\Debug\Awake.csproj.Up2Date
